@@ -86,8 +86,10 @@ http://localhost:3000
 
 A documentação completa das rotas está disponível no Postman, incluindo exemplos de requisições e respostas.
 
+🔗 **Acesse a documentação:** [https://documenter.getpostman.com/view/22428670/2sBXVhBq7D](https://documenter.getpostman.com/view/22428670/2sBXVhBq7D)
+
 ## 🌐 Deploy
 
 A API está disponível em produção através do Render.
  
-🔗 **Link do deploy:** `adicione aqui a URL gerada pelo Render` 
+🔗 **Acesse a aplicação:** [https://growdev-api-pets.onrender.com](https://growdev-api-pets.onrender.com)
